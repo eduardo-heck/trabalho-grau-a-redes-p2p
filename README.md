@@ -385,7 +385,7 @@ Para reduzir esses problemas na aplicação, o sistema utiliza mecanismos própr
 
 ## Autores
 
-**Eduardo Müller Heck**
+**Eduardo Heck, Felipe Egert e Lucas Schubert**
 
 Universidade do Vale do Rio dos Sinos — UNISINOS
 
