@@ -1,0 +1,16 @@
+# Configuração local
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários de transferência
+*.part
+
+# Backup local
+*_backup.py
+
+# Arquivos da pasta temporária
+tmp/*
+!tmp/.gitkeep
